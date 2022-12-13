@@ -1,0 +1,13 @@
+
+coverage
+coverage.json
+typechain
+typechain-types
+
+#Hardhat files
+cache
+artifacts
+
+web3/.env
+web3/package-lock.json
+web3/node_modules
