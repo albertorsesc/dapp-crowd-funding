@@ -11,3 +11,7 @@ artifacts
 web3/.env
 web3/package-lock.json
 web3/node_modules
+
+client/.env
+client/package-lock.json
+client/node_modules
