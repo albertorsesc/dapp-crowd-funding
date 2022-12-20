@@ -1,6 +1,6 @@
 ## Crowd Funding Web3 D-app
 
-<img src="#" alt="Crowd Funding dApp" style="width:450px;"/>
+<img src="https://github.com/albertorsesc/dapp-crowd-funding/blob/master/client/src/assets/crowd-funding-dapp.png" alt="Crowd Funding dApp" style="width:850px;"/>
 
 ### Installation
 
